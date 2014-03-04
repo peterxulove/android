@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kuanzone Movie</string>
+    <string name="title_activity_main">KuanZone Movie</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="MovieCategory">
+        <item >电影</item>
+        <item >电视剧</item>
+        <item >综艺节目</item>
+        <item />
+    </string-array>
+
+</resources>
